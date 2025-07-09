@@ -81,9 +81,13 @@ http://localhost:8080
 
 Here’s an example screenshot of the app running:
 
+### Light Mode
+
 ![Netcalc Preview](pictures/netcalc_light1.png)
 
 ![Netcalc Preview](pictures/netcalc_light2.png)
+
+### Dark Mode
 
 ![Netcalc Preview](pictures/netcalc_dark1.png)
 
