@@ -83,7 +83,7 @@ Here’s an example screenshot of the app running:
 
 ![Netcalc Preview](pictures/netcalc_light1.png)
 
-![Netcalc Preview](pictures/netcalc_light1.png)
+![Netcalc Preview](pictures/netcalc_light2.png)
 
 ![Netcalc Preview](pictures/netcalc_dark1.png)
 
