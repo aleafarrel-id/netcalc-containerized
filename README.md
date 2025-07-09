@@ -105,6 +105,7 @@ Every suggestion or contribution is genuinely appreciated 🙏
 
 ## License
 
-This project is open source and made entirely out of personal passion. I'm not a professional programmer — in fact, I may not even know how to code properly.  
+This project is open source and made entirely out of personal passion. I'm not a professional programmer — in fact, I may not even know how to code properly.
+
 Feel free to use, modify, or distribute it as you wish.  
-I hope you enjoy using it, and if you do, feel free to reach out via Instagram DM!
+I hope you enjoy using it, feel free to reach out via Instagram DM!
