@@ -18,9 +18,9 @@ You can run the IP Calculator with just a few simple steps using Docker.
 
 ---
 
-### Using Docker CLI
+### Using Docker CLI / Desktop
 
-#### 1. Pull Image from Docker Hub (if available)
+#### 1. Pull Image from Docker Hub
 
 ```bash
 docker pull aleafarrel/netcalc:1.0
@@ -47,34 +47,6 @@ Open your browser and go to:
 ```
 http://localhost:8080
 ```
-
----
-
-### Using Docker Desktop
-
-#### 1. Pull the Image
-
-- Open **Docker Desktop**
-- Navigate to **Images**
-- Click **Pull**
-- Enter: `aleafarrel/netcalc:1.0`
-
-#### 2. Run the Container
-
-- After pulling, find the image in Docker Desktop
-- Click **Run**
-- Configure port mapping:
-  - Container port: `80`
-  - Host port: `8080`
-
-#### 3. Access the Application
-
-Open your browser and visit:
-
-```
-http://localhost:8080
-```
-
 ---
 
 ## Preview
